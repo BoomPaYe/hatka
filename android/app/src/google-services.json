@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "851186644664",
+    "project_id": "hatka-50258",
+    "storage_bucket": "hatka-50258.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851186644664:android:2ace52ae6132467900e64d",
+        "android_client_info": {
+          "package_name": "com.example.hatka"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS12OepNLqVdvIs8mquO6w5D9_BZPz9dY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
